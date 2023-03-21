@@ -121,12 +121,3 @@ class node {
         };
     };
 };
-
-let silvia = new linkedList;
-
-silvia.append("eggs");
-silvia.append("milk");
-silvia.prepend("waffle");
-silvia.append("pancake");
-
-silvia.toString();
