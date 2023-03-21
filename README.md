@@ -1,1 +1,1 @@
-# linked-lists
+In this project, I sharpen my understanding of simple dynamic data structures by creating a linked list in plain Javascript.
